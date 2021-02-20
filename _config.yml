@@ -1,1 +1,14 @@
+# general data
+title: Plantino ESP32
+email: lautisilbergleit@gmail.com
+description: Meassure, log and water your plants in your laboratory automatically!
+github_username: lautisilber
+
+# build settings
+exclude: ['README.md']
+markdown: kramdown
 theme: jekyll-theme-cayman
+github:
+  zip_url: https://github.com/lautisilber/Plantino-esp32/archive/v1.2.zip
+  tar_url: https://github.com/lautisilber/Plantino-esp32/archive/v1.2.tar.gz
+show_downloads: true
