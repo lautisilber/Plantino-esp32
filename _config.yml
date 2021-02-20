@@ -1,7 +1,7 @@
 # general data
 title: Plantino ESP32
 email: lautisilbergleit@gmail.com
-description: Meassure, log and water your plants in your laboratory automatically!
+description: Sistema de control de agua completamente modular!
 github_username: lautisilber
 
 # build settings
