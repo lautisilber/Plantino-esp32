@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: Labino ESP32
+---
 
-You can use the [editor on GitHub](https://github.com/lautisilber/Plantino-esp32/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Descripción
+[NOMBRE_DE_PRODUCTO] permite el control de válvulas y bombas de agua a partir de mediciones de sensores. El enfoque *open-source* del proyecto le permite ser completamente modular. Esto significa que la elección del tipo y cantidad de sensores depende sola y únicamente de las necesidades de cada situación. A su vez los instrumentos controlados no están limitados a bombas de agua y válvulas sino a cualquier dispositivo que se controle mediante señales de encendido y apagado. Ademas, los algoritmos que se encargan de controlar los dispositivos en base a las mediciones de los sensores son completamente adaptables y se pueden ajustar según la situación lo requiera.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lautisilber/Plantino-esp32/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Características
+- El proyecto está armado con piezas *open-source* lo que lo hace muy barato y flexible comparado a otras soluciones *closed-source*. Poder incoroprar cualquier sensor o dispositivo disponible sin tener que usar componentes patentados por empresas (**esto esta muy mal explicado**) permite al usuario hacerse de un sistema extremadamente bajo en costos y hecho a su medida.
+- Brinda la posibilidad de armar un algoritmo personalizado que responda a las necesidades particulares de cada situación. De esta manera, hasta los requerimientos más exigentes y exóticos pueden ser satisfechos.
+- Ofrece una interfaz web sencilla e intuitiva para fácilmente poder cambiar la configuración, controlar la integridad de los componentes, y observar en tiempo real las mediciones de los sensores y el estado de los dispositivos.
+- Tiene integrado un servicio (opcional) de recopilación y guardado de mediciones de los sensores accesible mediante una tarjeta SD y la página [ThingSpeak](https://thingspeak.com/) para analizar los datos recopilados.
+- Consumo extremadamente bajo de energía, permitiendo que las exigencias energéticas dependan virtualmente únicamente de los dispositivos a controlar. Es posible alimentar el circuito (sin contar dispositivos) con una batería.
