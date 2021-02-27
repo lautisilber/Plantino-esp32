@@ -14,4 +14,4 @@ title: Labino ESP32
 - Tiene un consumo extremadamente bajo de energía, permitiendo que las exigencias energéticas dependan virtualmente únicamente de los dispositivos a controlar. Es posible alimentar el circuito (sin contar dispositivos) con una batería.
 
 ## Imágenes
-![index page](/assets/index_image.png)
+![index page](/assets/Esquema_plantino.png)
