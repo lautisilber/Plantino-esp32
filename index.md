@@ -4,7 +4,7 @@ title: Labino ESP32
 ---
 
 ## Descripción
-[NOMBRE_DE_PRODUCTO] permite el control de válvulas y bombas de agua a partir de mediciones de sensores. El enfoque *open-source* del proyecto le permite ser completamente modular. Esto significa que la elección del tipo y cantidad de sensores depende sola y únicamente de las necesidades de cada situación. A su vez, los instrumentos controlados no están limitados a bombas de agua y válvulas sino a cualquier dispositivo que se controle mediante señales de encendido y apagado. Además, los algoritmos que se encargan de controlar los dispositivos en base a las mediciones de los sensores son completamente adaptables y se pueden ajustar según la situación lo requiera.
+Plantino permite el control de válvulas y bombas de agua a partir de mediciones de sensores. El enfoque *open-source* del proyecto le permite ser completamente modular. Esto significa que la elección del tipo y cantidad de sensores depende sola y únicamente de las necesidades de cada situación. A su vez, los instrumentos controlados no están limitados a bombas de agua y válvulas sino a cualquier dispositivo que se controle mediante señales de encendido y apagado. Además, los algoritmos que se encargan de controlar los dispositivos en base a las mediciones de los sensores son completamente adaptables y se pueden ajustar según la situación lo requiera.
 
 ## Características
 - El proyecto está armado con piezas *open-source* lo que lo hace muy barato y flexible comparado a otras soluciones *closed-source*. Poder incoroprar cualquier sensor o dispositivo disponible sin tener que usar componentes patentados por empresas (**esto esta muy mal explicado**) permite al usuario hacerse de un sistema extremadamente bajo en costos y hecho a su medida.
