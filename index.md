@@ -13,5 +13,5 @@ Plantino permite controlar diferentes tipos de dispositivos como válvulas y bom
 - Tiene integrado un servicio (opcional) de recopilación y guardado de mediciones de los sensores accesible mediante una tarjeta SD, desde la interfaz web y la página [ThingSpeak](https://thingspeak.com/) para analizar los datos recopilados.
 - Posee un consumo extremadamente bajo de energía, permitiendo que las exigencias energéticas dependan virtualmente únicamente de los dispositivos a controlar. Es posible alimentar el circuito (sin contar dispositivos) con una batería.
 
-## Imágenes
+## Diagrama
 ![index page](/assets/Esquema_plantino.png)
