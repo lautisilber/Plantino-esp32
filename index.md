@@ -14,4 +14,8 @@ Plantino permite controlar diferentes tipos de dispositivos como válvulas y bom
 - Posee un consumo muy bajo de energía, permitiendo que las exigencias energéticas dependan únicamente de los dispositivos a controlar. Es posible alimentar el circuito (sin contar dispositivos) con una batería.
 
 ## Diagrama
-![index page](/assets/Esquema_plantino.png)
+![sketch](/assets/Esquema_plantino.png)
+
+## Imágenes
+![graphs demo](/assets/Graphs/demo.png)
+Gráficos para mostrar los datos recopilados
