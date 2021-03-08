@@ -19,3 +19,5 @@ Plantino permite controlar diferentes tipos de dispositivos como válvulas y bom
 ## Imágenes
 ![graphs demo](/assets/Graphs_demo.png)
 Gráficos para mostrar los datos recopilados
+![config demo](/assets/Config_demo.png)
+Cambiar la configuración en cualquier momento
