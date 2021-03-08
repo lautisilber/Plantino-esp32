@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Labino ESP32
+title: Plantino ESP32
 ---
 
 ## Descripción
@@ -17,7 +17,7 @@ Plantino permite controlar diferentes tipos de dispositivos como válvulas y bom
 ![sketch](/assets/Esquema_plantino.png)
 
 ## Imágenes
-<img src='https://github.com/lautisilber/Plantino-esp32/blob/gh-pages/assets/Graphs_demo.png' width='48'>
+<img src='https://github.com/lautisilber/Plantino-esp32/blob/gh-pages/assets/Graphs_demo.png' width='256'>
 Gráficos para mostrar los datos recopilados
-![config demo](/assets/Config_demo.png | width=50)
+<img src='https://github.com/lautisilber/Plantino-esp32/blob/gh-pages/assets/Config_demo.png' width='256'>
 Cambiar la configuración en cualquier momento
