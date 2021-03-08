@@ -17,7 +17,7 @@ Plantino permite controlar diferentes tipos de dispositivos como válvulas y bom
 ![sketch](/assets/Esquema_plantino.png)
 
 ## Imágenes
-![graphs demo](/assets/Graphs_demo.png | width=50)
+<img src='https://github.com/lautisilber/Plantino-esp32/blob/gh-pages/assets/Graphs_demo.png' width='48'>
 Gráficos para mostrar los datos recopilados
 ![config demo](/assets/Config_demo.png | width=50)
 Cambiar la configuración en cualquier momento
